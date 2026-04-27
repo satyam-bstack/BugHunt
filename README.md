@@ -57,7 +57,6 @@ Some features on the web application require testing image upload and scanning l
 *   **Testing Method:** Use BrowserStack's **Image Injection** feature to upload this specific image into the application's scanner to test data-handling logic and verify if the correct search results or product details are returned.
 
 ### 2. Product Requirements Document (PRD) Exercise
-At **12:15 PM**, we will transition to the "Findings & Test Case Management" segment of the agenda. 
 *   **The Task:** Your team will use the PRD to generate set of test cases that can help you in identifying the bugs. 
 *   **AI Generation:** You will input this PRD into BrowserStack Test Management's AI agent. You will then provide prompts to generate  test cases which can be executed to identify Bugs. 
 *   **Preparation:** As you hunt, keep notes on *why* these bugs affect the user experience, as this will help you write a stronger PRD later.
